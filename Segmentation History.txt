@@ -1,0 +1,42 @@
+					---------------------------------- 
+					Image processing Before Deep learning
+					----------------------------------
+1. Thresholding method (global or local thresholding, Otsu's autometic optimal threshold )
+2. Eddge detection (sobel, canny, prewitt, LoG )
+3. Region-Based Segmentation (Region Growing, Region Splitting and Merging, Watershed Algorithm )
+4. Clustering Based Segmentation (K-Means Clustering, Fuzzy C-Means, Mean Shift )
+5. Graph-Based Methods (Graph Cut, Normalized Cut, Superpixel Segmentation)
+
+					---------------------------
+					Early Deep Learning Models
+					---------------------------
+1. Fully Convolutional Networks (FCNs)
+2. SegNet
+3. Encoder-Decoder
+
+
+					--------------------------
+					Advance CNN Architectures
+					--------------------------
+1. U-Net
+2. Deeplab
+
+
+					---------------------------------------
+					After introducing attention mechanism
+					---------------------------------------
+1. Pyramid Pooling Module (PPM)
+2. Attention U-Net
+3. Masked R-CNN
+
+
+					--------------------------------
+					Transformer-Based Architectures
+					--------------------------------
+1. Vision Transformers (ViTs)
+2. SegFormer
+3. Swin Transformer
+4. HRNet 
+
+
+
